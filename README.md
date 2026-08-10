@@ -2,15 +2,20 @@
 ## 👾 Hi there! I'm Carolina Ruas
 
 
+<div align="center" style="display: inline_block"><br>
 
-
-![Git & GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-4b0082?style=for-the-badge&logo=github&logoColor=white)
-![Python](https://img.shields.io/badge/Python-a020f0?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-b23ae6?style=for-the-badge&logo=SQL&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud-c54bdc?style=for-the-badge&logo=cloud&logoColor=white)
-![A.I](https://img.shields.io/badge/A.I-d75dd2?style=for-the-badge&logo=AI&logoColor=white)
-
-
+  <img width="30" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/CSS.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img width="40" src="https://user-images.githubusercontent.com/12565871/85441760-c21f3f80-b58f-11ea-9143-d59a46aa92c2.png">
+  <img width="40"alt="image" src="https://lens.usercontent.google.com/banana?agsi=CmdnbG9iYWw6OjAwMDA1NWNmZWM3MDAyNmQ6MDAwMDAwZWI6MTo2Mjc0YTUyZGVjMzhmNjJjOjAwMDA1NWNmZWM3MDAyNmQ6MDAwMDAzMWMwMDgwMzM2ODowMDA2NThiODdjYTk4YTRmEAIYASIJaW1hZ2UvcG5n">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/AWS-Dark.svg">
+  <img width="40" src="https://github.com/user-attachments/assets/07d924fa-3716-4f7f-98c9-228eeab39768".svg>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+  <img width="40" src ="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/R-Dark.svg"
+ </div>
+  
 
 
 <picture align="center">
