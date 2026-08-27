@@ -140,8 +140,11 @@ LLMs, prompt engineering, agentes de IA, cloud. AWS Certified AI Practitioner, b
 ## 🔭 Instrumentos — Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,gcp,aws,git,github,vscode,r&theme=light" />
-</p>
+  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,gcp,aws,git,github,vscode,r,html,css&theme=light" /><br>
+  <img src="https://img.shields.io/badge/QGIS-2D6A4F?style=for-the-badge&logo=qgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google Earth-2C5F8A?style=for-the-badge&logo=google-earth&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArcGIS-2D6A4F?style=for-the-badge&logo=arcgis&logoColor=white" />
+  </p>
 
 | Instrumento |  |
 |---|---|
@@ -193,7 +196,7 @@ LLMs, prompt engineering, agentes de IA, cloud. AWS Certified AI Practitioner, b
   <sub>Amazon Web Services · maio/2026</sub>
   <br/><br/>
   <a href="https://www.credly.com/badges/ab3c3eed-56c7-44b6-92c7-38e7e7435f68/public_url">
-    <img src="https://img.shields.io/badge/verificar%20credencial-C9942A?style=flat-square&labelColor=1B3A2D" />
+  <img src="https://img.shields.io/badge/verificar%20credencial-C9942A?style=flat-square&labelColor=1B3A2D" />
   </a>
 </td>
 </tr>
