@@ -160,7 +160,7 @@ LLMs, prompt engineering, agentes de IA, cloud. AWS Certified AI Practitioner, b
 | Projeto | Descrição | Tecnologias | Link |
 |---|---|---|---|
 | 📊 **Credit Score Classifier** | Classificação de crédito com 100k registros, explicabilidade com SHAP | ![](https://img.shields.io/badge/Python-XGBoost-2D6A4F) ![](https://img.shields.io/badge/Random_Forest-SHAP-8B6914) | [ver repositório](https://github.com/carolinaruas-star) |
-| 🪵 **WoodInsight PY** | Análise de preços de madeira com pipeline completo de dados — limpeza, transformação, agregação e visualização | ![](https://img.shields.io/badge/Python-Pandas-2D6A4F) ![](https://img.shields.io/badge/NumPy-Seaborn-8B6914) | [ver repositório](https://github.com/carolinaruas-star) |
+| 🪵 **WoodInsight PY** | Análise de preços de madeira com pipeline completo de dados — limpeza, transformação, agregação e visualização | ![](https://img.shields.io/badge/Python-Pandas-2D6A4F) ![](https://img.shields.io/badge/NumPy-Seaborn-8B6914) | em breve |
 | 🤖 **AI Resume Analyzer** *(em desenvolvimento)* | Analisador de currículos com LLMs e prompt engineering | ![](https://img.shields.io/badge/LLMs-Prompt_Engineering-2C5F8A) ![](https://img.shields.io/badge/Generative_AI-APIs-C9942A) | em breve |
 
 ---
