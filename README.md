@@ -165,6 +165,18 @@ LLMs, prompt engineering, agentes de IA, cloud. AWS Certified AI Practitioner, b
 
 ---
 
+## 🧪 Territórios em Exploração
+
+> Nem todo mapa precisa estar completo para valer a pena percorrer.
+
+- ₿ **Cripto & Web3** — mercado, DeFi, tokenização de ativos naturais
+- 🔗 **ReFi (Regenerative Finance)** — onde blockchain encontra sustentabilidade
+- 🤖 **Automações** — scripts, bots e fluxos que resolvem problemas do dia a dia
+- 🧠 **AI Agents** — testando frameworks como LangChain, CrewAI
+- 🎮 **Game Dev** — desenvolvimento de jogos em Python 
+
+---
+
 ## 🏅 Certificações
 
 <div align="center">
