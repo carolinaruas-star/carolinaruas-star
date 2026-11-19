@@ -1,118 +1,91 @@
 <!--
-  🗺️ README — ANA CAROLINA PEREIRA RUAS
-  Tema: Cartografia — quem mapeia territórios
-  3 Territórios: Engenharia Florestal | Ciência de Dados | Inteligência Artificial
-  Paleta:
-    Verde-mata (títulos):         #1B3A2D
-    Verde-floresta (principal):   #2D6A4F
-    Verde-folha (destaque):       #74C69D
-    Sépia (mapa antigo):          #8B6914
-    Âmbar (acento quente):        #C9942A
-    Azul cartográfico:            #2C5F8A
-    Creme-pergaminho (fundo):     #F5F0E8
+  README — ANA CAROLINA PEREIRA RUAS
+  Foco: Análise de Dados | Ciência de Dados | Engenharia de Dados
+  Paleta (Identidade Visual LinkedIn):
+    Azul-Petróleo Profundo (base):  #0F2933
+    Azul-Petróleo Médio:            #1E4D5C
+    Azul-Ciano Escuro (destaque):   #2A6F82
+    Grafite Escuro:                 #1C252C
+    Cinza-Claro (texto/borda):      #D9E2E8
 -->
 
 <div align="center">
 
-# 🗺️ Carolina Ruas
+# Carolina Ruas
 
-<img src="https://readme-typing-svg.demolab.com/?font=Raleway&size=20&pause=1000&color=2D6A4F&background=FFFFFF00&center=true&vCenter=true&width=750&lines=Engenharia+Florestal+%7C+Dados+%7C+IA;o+instrumento+muda%2C+o+olhar+permanece+%F0%9F%94%AD;mapeando+florestas%2C+dados+e+modelos+de+linguagem" alt="Typing SVG" />
-
-<div></div>
-<img src="https://img.shields.io/badge/status-em%20campo-2D6A4F?style=for-the-badge&labelColor=1B3A2D" />
-<img src="https://img.shields.io/badge/she--her-2C5F8A?style=for-the-badge&labelColor=1B3A2D" />
-<img src="https://img.shields.io/badge/🌲%20Florestal-8B6914?style=for-the-badge&labelColor=1B3A2D" />
-<img src="https://img.shields.io/badge/📊%20Dados-74C69D?style=for-the-badge&labelColor=1B3A2D" />
-<img src="https://img.shields.io/badge/🤖%20IA-2C5F8A?style=for-the-badge&labelColor=1B3A2D" />
-<img src="https://img.shields.io/badge/🧭%20GIS/SIG-2D6A4F?style=for-the-badge&labelColor=1B3A2D" />
+<img src="https://readme-typing-svg.demolab.com/?font=Raleway&size=20&pause=1000&color=2A6F82&background=FFFFFF00&center=true&vCenter=true&width=750&lines=An%C3%A1lise+de+Dados+%7C+Ci%C3%AAncia+de+Dados+%7C+Engenharia+de+Dados;Python+%E2%80%A2+SQL+%E2%80%A2+ETL+%E2%80%A2+Machine+Learning+%E2%80%A2+Cloud;transformando+dados+complexos+em+decis%C3%B5es+estrat%C3%A9gicas" alt="Typing SVG" />
 
 <div></div>
-<img src="https://komarev.com/ghpvc/?username=carolinaruas-star&label=Visitas%20no%20perfil&color=2D6A4F&style=for-the-badge" alt="Contador de visitas" />
+<img src="https://img.shields.io/badge/An%C3%A1lise%20de%20Dados-1E4D5C?style=for-the-badge&labelColor=0F2933" />
+<img src="https://img.shields.io/badge/Ci%C3%AAncia%20de%20Dados-2A6F82?style=for-the-badge&labelColor=0F2933" />
+<img src="https://img.shields.io/badge/Engenharia%20de%20Dados-1E4D5C?style=for-the-badge&labelColor=0F2933" />
+<img src="https://img.shields.io/badge/AWS%20Certified%20AI-0F2933?style=for-the-badge&labelColor=1C252C" />
+
+<div></div>
+<img src="https://komarev.com/ghpvc/?username=carolinaruas-star&label=Visitas%20no%20perfil&color=1E4D5C&style=for-the-badge" alt="Contador de visitas" />
 
 <p>
-  <a href="#-a-cartógrafa">Sobre mim</a> •
-  <a href="#️-os-3-territórios">Territórios</a> •
-  <a href="#-expedições-em-curso--metas-2026">Expedições</a> •
-  <a href="#-instrumentos--skills">Instrumentos</a> •
-  <a href="#️-trabalhos-de-campo--projetos">Campo</a> •
-  <a href="#-certificações">Certificações</a> •
-  <a href="#-marcas-no-mapa">Marcas no mapa</a> •
-  <a href="#-coordenadas--contato">Contato</a>
+  <a href="#sobre-mim">Sobre mim</a> •
+  <a href="#áreas-de-atuação">Áreas de Atuação</a> •
+  <a href="#formação--especializações">Formação & Especializações</a> •
+  <a href="#stack-técnica">Stack Técnica</a> •
+  <a href="#projetos-em-destaque">Projetos</a> •
+  <a href="#certificações">Certificações</a> •
+  <a href="#contribuições">Contribuições</a> •
+  <a href="#contato">Contato</a>
 </p>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,30&height=40&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2933,50:1E4D5C,100:2A6F82&height=40&section=header" width="100%"/>
 
+## Sobre mim
 
-## 🧭 A Cartógrafa
+Atuo na área de Dados desde outubro de 2025, utilizando **Python, SQL, ETL e Machine Learning** para construir pipelines estruturados, análises estratégicas e modelos preditivos que orientam decisões de negócio. Minha trajetória combina o rigor científico e estatístico da **Engenharia Florestal (UFMG)** com a prática em **Análise, Ciência e Engenharia de Dados**, consolidada em projetos aplicados, bootcamps e hackathons.
 
-<table>
-<tr>
-<td width="60%">
+Sou movida pela transformação de bases ruidosas e dados heterogêneos em soluções confiáveis — aplicando olhar crítico para a integridade dos dados, automação de rotinas e validação metodológica em todas as etapas.
 
-*Sempre me interessei por territórios desconhecidos.*
-
-Primeiro, percorrendo as matas de Minas Gerais com **GPS, QGIS e inventário florestal**, aprendendo a observar o território e transformá-lo em informação. <br>
-Depois, o território mudou. Vieram **Python, SQL e Machine Learning** — e com eles, uma nova forma de explorar padrões, relações e sistemas por meio dos dados.<br>
-Agora, estou diante de um novo território: a **Inteligência Artificial**.<br>
-LLMs, agentes de IA e sistemas capazes de interpretar informações, tomar decisões e agir sobre diferentes contextos.<br>
-Olhando para trás, percebo que **não foram mudanças de direção, mas diferentes formas de fazer a mesma coisa: explorar, compreender e representar sistemas complexos.**
-
-
-- 🌲 **Florestal:** GIS, inventário, modelagem ambiental, pesquisa operacional (UFMG/CPCA)
-- 📊 **Dados:** Python, SQL, ML, análise exploratória, explicabilidade (SHAP)
-- 🤖 **IA:** LLMs, prompt engineering, agentes, cloud (AWS + GCP), generative AI
-
-
-> *"Mudaram as ferramentas, os territórios. Mas a curiosidade que me move continua a mesma."*
-
-</td>
-<td width="40%">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmY3Y2NseHYwY2tkOWNqanBpdW9vZTJodjVqcHp5OHc0MGI0dWM2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7MNJFsrDCJUQa05VAR/giphy.gif" width="100%"/>
-</td>
-</tr>
-</table>
+- **Análise de Dados & BI:** Modelagem de consultas analíticas em SQL (BigQuery), EDA e dashboards no Looker Studio e Power BI.
+- **Ciência de Dados & ML:** Modelos supervisionados (XGBoost, Random Forest, Decision Tree, KNN), prevenção de *data leakage* e explicabilidade com SHAP.
+- **Engenharia de Dados & Cloud:** Pipelines automatizados de ETL/ELT em Python (POO) e SQL, bancos relacionais, Docker e arquitetura em nuvem (AWS e GCP).
 
 ---
 
-## 🗺️ Os 3 Territórios
-
-> Não percorri esses caminhos em linha reta. Percorri-os em profundidade.
+## Áreas de Atuação
 
 <table>
 <tr>
 <td width="33%" align="center">
 
-### 🌲 Engenharia Florestal
+### Análise de Dados & BI
 
-*A primeira linguagem*
+*Inteligência e Decisão*
 
-Formada pela UFMG. Inventário florestal, GIS, modelagem e pesquisa no Laboratório de Pesquisa Operacional e Simulação (CPCA). Aprendi que dado sem contexto ambiental é dado incompleto — e que medir uma floresta é, no fundo, um problema de dados.
+Extração, limpeza e modelagem de consultas em SQL (BigQuery) e Python para responder perguntas de negócio, com visualizações interativas no Looker Studio e Power BI.
 
-`QGIS` `ArcGIS` `R` `inventário` `sensoriamento remoto`
-
-</td>
-<td width="33%" align="center">
-
-### 📊 Ciência de Dados
-
-*A segunda linguagem*
-
-Python, SQL, machine learning. Projetos com 100k+ registros, Random Forest, XGBoost, explicabilidade com SHAP. Dados ambientais, financeiros, textuais — a lógica é a mesma: medir, modelar, interpretar.
-
-`Python` `SQL` `Scikit-learn` `XGBoost` `SHAP` `Pandas`
+`SQL` `BigQuery` `EDA` `Looker Studio` `Power BI`
 
 </td>
 <td width="33%" align="center">
 
-### 🤖 Inteligência Artificial
+### Ciência de Dados & ML
 
-*O território atual*
+*Modelagem Preditiva*
 
-LLMs, prompt engineering, agentes de IA, cloud. AWS Certified AI Practitioner, badges Google Cloud, Microsoft AI Skills. Construindo projetos que conectam todos os territórios anteriores — onde floresta, dados e linguagem se encontram.
+Desenvolvimento de algoritmos supervisionados para classificação e regressão em bases com 100k+ registros, validação robusta e interpretabilidade de variáveis.
 
-`LLMs` `Prompt Engineering` `AWS` `GCP` `Vertex AI` `Gemini`
+`Python` `Scikit-learn` `XGBoost` `SHAP` `Pandas`
+
+</td>
+<td width="33%" align="center">
+
+### Engenharia de Dados
+
+*Pipelines & Arquitetura*
+
+Construção de fluxos automatizados de ingestão, sanitização e transformação de dados (ETL/ELT), estruturação de bancos relacionais, APIs e deploy em nuvem.
+
+`ETL/ELT` `Python (POO)` `Docker` `FastAPI` `AWS` `GCP`
 
 </td>
 </tr>
@@ -120,87 +93,90 @@ LLMs, prompt engineering, agentes de IA, cloud. AWS Certified AI Practitioner, b
 
 ---
 
-## 🧳 Expedições em Curso — Metas 2026
+## Formação & Especializações
 
-```
-✅ Bootcamp Ciência de Dados — Data Girls (Re)Start 2026
-✅ AWS Certified AI Practitioner (AIF-C01) — maio/2026
-✅ Google Cloud: Vertex AI, Gemini, BigQuery (badges)
-✅ Microsoft AI Skills for Women (Womcy/Microsoft)
-✅ Google Cloud Gen AI Zero to Hero
-🗺️ Microsoft DP-800 — em campo
-🗺️ Microsoft AB-620 Copilot Studio — em campo
-🗺️ Gran Cursos — Engenharia de Prompt (setembro/2026)
-🎯 Lançar AI Resume Analyzer (LLMs + prompt engineering)
-🎯 Primeira posição como AI/ML Engineer ou Data Scientist
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Especializações em Andamento
+
+- **Engenharia de Dados** — *Indicium AI*  
+  `Docker` `Airflow` `Meltano` `Embulk` `Azure Data Factory` `Kubernetes` `IaC` `CI/CD`
+
+- **Ciências de Dados** — *SENAI/SC*  
+  `Estatística` `Modelagem Preditiva` `Machine Learning` `Análise Exploratória`
+
+- **Desenvolvimento de IA para Análise Preditiva** — *SENAI/SC*  
+  `Python` `SMOTE` `Classificação` `Otimização de Modelos`
+
+- **Trilha de Dados & IA (Ative sua Carreira)** — *Laboratória*  
+  `SQL` `Google BigQuery` `Looker Studio` `Business Intelligence`
+
+</td>
+<td width="50%" valign="top">
+
+### Formação Acadêmica & Bootcamps
+
+- **Bacharelado em Engenharia Florestal** — *Universidade Federal de Minas Gerais (UFMG)*  
+  `Rigor Estatístico` `Pesquisa Operacional` `SIG` `R` `Python`
+
+- **Bootcamp Ciência de Dados** — *Data Girls (Re)Start*  
+  `XGBoost` `SHAP` `Explainable AI` `Validação de Modelos`
+
+- **GEAR Academy: Gemini Enterprise Agent Platform** — *Google Cloud*  
+  `Agentes de IA` `LLMs` `Vertex AI` `Automação`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔭 Instrumentos — Skills
+## Stack Técnica
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,gcp,aws,git,github,vscode,r,html,css&theme=light" /><br>
-  <img src="https://img.shields.io/badge/QGIS-2D6A4F?style=for-the-badge&logo=qgis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google Earth-2C5F8A?style=for-the-badge&logo=google-earth&logoColor=white" />
-  <img src="https://img.shields.io/badge/ArcGIS-2D6A4F?style=for-the-badge&logo=arcgis&logoColor=white" />
-  </p>
-
-| Instrumento |  |
-|---|---|
-| 🐍 Python (Pandas, NumPy, Scikit-learn) | ![](https://progress-bar.dev/75/?color=2d6a4f) |
-| 🤖 ML, Random Forest & XGBoost | ![](https://progress-bar.dev/65/?color=8b6914) |
-| ☁️ AWS & Google Cloud (Vertex AI, BigQuery) | ![](https://progress-bar.dev/60/?color=2c5f8a) |
-| 🗣️ Prompt Engineering & LLMs | ![](https://progress-bar.dev/70/?color=c9942a) |
-| 🗄️ SQL | ![](https://progress-bar.dev/65/?color=2d6a4f) |
-| 🗺️ GIS (QGIS, ArcGIS) | ![](https://progress-bar.dev/80/?color=8b6914) |
-| 📊 R (análise florestal e estatística) | ![](https://progress-bar.dev/70/?color=2c5f8a) |
+  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,gcp,aws,docker,fastapi,sqlite,git,github,vscode,r&theme=dark" /><br>
+  <img src="https://img.shields.io/badge/SQL-1E4D5C?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_BigQuery-2A6F82?style=for-the-badge&logo=googlebigquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Looker_Studio-1E4D5C?style=for-the-badge&logo=looker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-0F2933?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/QGIS-1E4D5C?style=for-the-badge&logo=qgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArcGIS-2A6F82?style=for-the-badge&logo=arcgis&logoColor=white" />
+</p>
 
 ---
 
-## 🏕️ Trabalhos de Campo — Projetos
+## Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias | Link |
 |---|---|---|---|
-| 📊 **Credit Score Classifier** | Classificação de crédito com 100k registros, explicabilidade com SHAP | ![](https://img.shields.io/badge/Python-XGBoost-2D6A4F) ![](https://img.shields.io/badge/Random_Forest-SHAP-8B6914) | [ver repositório](https://github.com/carolinaruas-star/Credit_Score_Classifier) |
-| ⚡ **Jornada Pokémon** | Jogo web interativo com PokéAPI, sistema de captura, regras de negócio e persistência da coleção em SQLite | ![](https://img.shields.io/badge/HTML-CSS-2D6A4F) ![](https://img.shields.io/badge/JavaScript-Python-8B6914) ![](https://img.shields.io/badge/FastAPI-SQLite-2C5F8A) | [ver repositório](https://github.com/carolinaruas-star/pokemon-journey) |
-| 🪵 **WoodInsight PY** | Análise de preços de madeira com pipeline completo de dados — limpeza, transformação, agregação e visualização | ![](https://img.shields.io/badge/Python-Pandas-2D6A4F) ![](https://img.shields.io/badge/NumPy-Seaborn-8B6914) | [ver repositorio](https://github.com/carolinaruas-star/curso-analise-preditiva/tree/main/wood-insight-py) |
-| 🤝 **Conecta** | Solução desenvolvida para o Hackathon Conexão Ancestral, integrando aplicação, API e analytics para análise de jornadas e apoio ao reengajamento | ![](https://img.shields.io/badge/HTML-CSS-2D6A4F) ![](https://img.shields.io/badge/JavaScript-TypeScript-8B6914) | [ver projeto](https://github.com/carolinaruas-star/conecta-app) |
-| 🎓 **Kodic Edu** | Solução educacional desenvolvida para o Hackathon Hacktudo, transformando o celular em ferramenta de colaboração coletiva em sala de aula | ![](https://img.shields.io/badge/Next.js-TypeScript-2C5F8A) ![](https://img.shields.io/badge/Tailwind_CSS-IA-C9942A) | [ver repositório](https://github.com/carolinaruas-star/Kodic-Edu) |
-| ⚙️ **Manutenção Preditiva 4.0** | Análise preditiva aplicada à manutenção de máquinas, com foco na identificação e previsão de falhas | ![](https://img.shields.io/badge/Python-Machine_Learning-2D6A4F) ![](https://img.shields.io/badge/Análise_Preditiva-IA-8B6914) | em breve |
-| 🤖 **AI Resume Analyzer** *(em desenvolvimento)* | Analisador de currículos com LLMs e prompt engineering | ![](https://img.shields.io/badge/LLMs-Prompt_Engineering-2C5F8A) ![](https://img.shields.io/badge/Generative_AI-APIs-C9942A) | em breve |
+| **Credit Score Classifier** | Classificação de risco de crédito com 100k registros, validação agrupada (`GroupShuffleSplit`) contra *data leakage* e explicabilidade com SHAP (F1 Macro: 69,33%) | ![](https://img.shields.io/badge/Python-XGBoost-1E4D5C) ![](https://img.shields.io/badge/Scikit--learn-SHAP-2A6F82) | [ver repositório](https://github.com/carolinaruas-star/Credit_Score_Classifier) |
+| **WoodInsight PY** | Pipeline automatizado em POO para ingestão e limpeza de 1.000 registros de preços, eliminação de 287 anomalias e segmentação por Curva ABC (< 3s) | ![](https://img.shields.io/badge/Python_(POO)-Pandas-1E4D5C) ![](https://img.shields.io/badge/NumPy-Seaborn-2A6F82) | [ver repositório](https://github.com/carolinaruas-star/curso-analise-preditiva/tree/main/wood-insight-py) |
+| **Manutenção Preditiva 4.0** | Pipeline preditivo com 10.000 registros de sensores industriais para detecção de falhas, aplicando balanceamento SMOTE, KNN e Árvores de Decisão | ![](https://img.shields.io/badge/Python-Machine_Learning-1E4D5C) ![](https://img.shields.io/badge/SMOTE-An%C3%A1lise_Preditiva-2A6F82) | [ver repositório](https://github.com/carolinaruas-star/curso-analise-preditiva) |
+| **Jornada Pokémon** | Aplicação web interativa com consumo de API externa (PokéAPI), regras de negócio e persistência relacional em SQLite | ![](https://img.shields.io/badge/Python-FastAPI-1E4D5C) ![](https://img.shields.io/badge/SQLite-JavaScript-2A6F82) | [ver repositório](https://github.com/carolinaruas-star/pokemon-journey) |
+| **Conecta** | Solução desenvolvida para o Hackathon Conexão Ancestral, integrando aplicação, API e analytics para análise de jornadas e apoio ao reengajamento | ![](https://img.shields.io/badge/Node.js-SQLite-1E4D5C) ![](https://img.shields.io/badge/JavaScript-TypeScript-2A6F82) | [ver projeto](https://github.com/carolinaruas-star/conecta-app) |
+| **Kodic Edu** | Solução educacional desenvolvida para o Hackathon Hacktudo, transformando o celular em ferramenta de colaboração coletiva em sala de aula | ![](https://img.shields.io/badge/Next.js-TypeScript-1E4D5C) ![](https://img.shields.io/badge/Tailwind_CSS-IA-2A6F82) | [ver repositório](https://github.com/carolinaruas-star/Kodic-Edu) |
 
 ---
 
-## 🧪 Territórios em Exploração
-
-> Nem todo mapa precisa estar completo para valer a pena percorrer.
-
-- ₿ **Cripto & Web3** — mercado, DeFi, tokenização de ativos naturais
-- 🔗 **ReFi (Regenerative Finance)** — onde blockchain encontra sustentabilidade
-- 🤖 **Automações** — scripts, bots e fluxos que resolvem problemas do dia a dia
-- 🧠 **AI Agents** — testando frameworks como LangChain, CrewAI
-- 🎮 **Game Dev** — desenvolvimento de jogos em Python 
-
----
-
-## 🏅 Certificações
+## Certificações
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="200">
+<td align="center" width="220">
   <a href="https://www.credly.com/badges/ab3c3eed-56c7-44b6-92c7-38e7e7435f68/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="120" alt="AWS Certified AI Practitioner" />
   </a>
   <br/>
   <strong>AWS Certified AI Practitioner</strong>
   <br/>
-  <sub>Amazon Web Services · maio/2026</sub>
+  <sub>Amazon Web Services</sub>
   <br/><br/>
   <a href="https://www.credly.com/badges/ab3c3eed-56c7-44b6-92c7-38e7e7435f68/public_url">
-  <img src="https://img.shields.io/badge/verificar%20credencial-C9942A?style=flat-square&labelColor=1B3A2D" />
+  <img src="https://img.shields.io/badge/verificar%20credencial-2A6F82?style=flat-square&labelColor=0F2933" />
   </a>
 </td>
 </tr>
@@ -210,7 +186,7 @@ LLMs, prompt engineering, agentes de IA, cloud. AWS Certified AI Practitioner, b
 
 ---
 
-## 📍 Marcas no Mapa
+## Contribuições
 
 <div align="center">
 
@@ -224,23 +200,22 @@ LLMs, prompt engineering, agentes de IA, cloud. AWS Certified AI Practitioner, b
 
 ---
 
-## 📍 Coordenadas — Contato
-
-<p>
-  <a href="https://www.linkedin.com/in/carolinaruas/">
-    <img src="https://img.shields.io/badge/LinkedIn-2C5F8A?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/carolinaruas-star">
-    <img src="https://img.shields.io/badge/GitHub-1B3A2D?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+## Contato
 
 <div align="center">
 
-> 🗺️ *"The most promising words ever written on the maps of human knowledge are terra incognita, unknown territory."*
-> 
-> — *Daniel Boorstin*
+<p>
+  <a href="https://www.linkedin.com/in/carolinaruas/">
+    <img src="https://img.shields.io/badge/LinkedIn-1E4D5C?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/carolinaruas-star">
+    <img src="https://img.shields.io/badge/GitHub-0F2933?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:carolina.pruas@gmail.com">
+    <img src="https://img.shields.io/badge/Email-2A6F82?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,30&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2933,50:1E4D5C,100:2A6F82&height=100&section=footer" width="100%"/>
 
 </div>
