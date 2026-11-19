@@ -41,7 +41,7 @@
 
 ## Sobre mim
 
-Atuo na área de Dados desde outubro de 2025, utilizando **Python, SQL, ETL e Machine Learning** para construir pipelines estruturados, análises estratégicas e modelos preditivos que orientam decisões de negócio. Minha trajetória combina o rigor científico e estatístico da **Engenharia Florestal (UFMG)** com a prática em **Análise, Ciência e Engenharia de Dados**, consolidada em projetos aplicados, bootcamps e hackathons.
+Atuo na área de Dados utilizando **Python, SQL, ETL e Machine Learning** para construir pipelines estruturados, análises estratégicas e modelos preditivos que orientam decisões de negócio. Minha trajetória combina o rigor científico e estatístico da **Engenharia Florestal (UFMG)** com a prática em **Análise, Ciência e Engenharia de Dados**, consolidada em projetos aplicados, bootcamps e hackathons.
 
 Sou movida pela transformação de bases ruidosas e dados heterogêneos em soluções confiáveis — aplicando olhar crítico para a integridade dos dados, automação de rotinas e validação metodológica em todas as etapas.
 
