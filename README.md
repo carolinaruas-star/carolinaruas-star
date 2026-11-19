@@ -13,7 +13,7 @@
 
 # Carolina Ruas
 
-<img src="https://readme-typing-svg.demolab.com/?font=Raleway&size=20&pause=1000&color=2A6F82&background=FFFFFF00&center=true&vCenter=true&width=750&lines=An%C3%A1lise+de+Dados+%7C+Ci%C3%AAncia+de+Dados+%7C+Engenharia+de+Dados;Python+%E2%80%A2+SQL+%E2%80%A2+ETL+%E2%80%A2+Machine+Learning+%E2%80%A2+Cloud;transformando+dados+complexos+em+decis%C3%B5es+estrat%C3%A9gicas" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Raleway&size=20&pause=1000&color=2A6F82&background=FFFFFF00&center=true&vCenter=true&width=750&lines=An%C3%A1lise+de+Dados+%7C+Ci%C3%AAncia+de+Dados+%7C+Engenharia+de+Dados;Python+%E2%80%A2+SQL+%E2%80%A2+ETL/ELT+%E2%80%A2+Machine+Learning+%E2%80%A2+Cloud;transformando+dados+complexos+em+decis%C3%B5es+estrat%C3%A9gicas" alt="Typing SVG" />
 
 <div></div>
 <img src="https://img.shields.io/badge/An%C3%A1lise%20de%20Dados-1E4D5C?style=for-the-badge&labelColor=0F2933" />
@@ -41,7 +41,7 @@
 
 ## Sobre mim
 
-Atuo na área de Dados utilizando **Python, SQL, ETL e Machine Learning** para construir pipelines estruturados, análises estratégicas e modelos preditivos que orientam decisões de negócio. Minha trajetória combina o rigor científico e estatístico da **Engenharia Florestal (UFMG)** com a prática em **Análise, Ciência e Engenharia de Dados**, consolidada em projetos aplicados, bootcamps e hackathons.
+Atuo na área de Dados utilizando **Python, SQL, ETL/ELT e Machine Learning** para construir pipelines estruturados, análises estratégicas e modelos preditivos que orientam decisões de negócio. Minha trajetória combina o rigor científico e estatístico da **Engenharia Florestal (UFMG)** com a prática em **Análise, Ciência e Engenharia de Dados**, consolidada em projetos aplicados, bootcamps e hackathons.
 
 Sou movida pela transformação de bases ruidosas e dados heterogêneos em soluções confiáveis — aplicando olhar crítico para a integridade dos dados, automação de rotinas e validação metodológica em todas as etapas.
 
