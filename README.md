@@ -172,11 +172,15 @@ Modelagem preditiva aplicada, bancos de dados habilitados para IA e SQL analíti
 ## Stack Técnica
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,gcp,aws,docker,fastapi,sqlite,git,github,vscode,r&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,aws,gcp,azure,docker,fastapi,sqlite,git,github,vscode,r&theme=dark" /><br>
   <img src="https://img.shields.io/badge/SQL-1E4D5C?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_BigQuery-2A6F82?style=for-the-badge&logo=googlebigquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Looker_Studio-1E4D5C?style=for-the-badge&logo=looker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Fabric-1E4D5C?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Looker_Studio-2A6F82?style=for-the-badge&logo=looker&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-0F2933?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vertex_AI_%26_ADK-1E4D5C?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_AI_Foundry-2A6F82?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP_%26_AI_Agents-0F2933?style=for-the-badge" />
   <img src="https://img.shields.io/badge/QGIS-1E4D5C?style=for-the-badge&logo=qgis&logoColor=white" />
   <img src="https://img.shields.io/badge/ArcGIS-2A6F82?style=for-the-badge&logo=arcgis&logoColor=white" />
 </p>
