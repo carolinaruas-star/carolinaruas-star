@@ -172,7 +172,7 @@ Modelagem preditiva aplicada, bancos de dados habilitados para IA e SQL analíti
 ## Stack Técnica
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,aws,gcp,azure,docker,fastapi,sqlite,git,github,vscode,r&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,aws,gcp,azure,docker,fastapi,sqlite,postgres,git,github,vscode,r&theme=dark" /><br>
   <img src="https://img.shields.io/badge/SQL-1E4D5C?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_BigQuery-2A6F82?style=for-the-badge&logo=googlebigquery&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Fabric-1E4D5C?style=for-the-badge&logo=microsoft&logoColor=white" />
